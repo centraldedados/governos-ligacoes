@@ -1,0 +1,126 @@
+{
+  "name": "burgueses",
+  "title": "",
+  "homepage": "",
+  "version": "0.1.0",
+  "license": "PDDL-1.0",
+  "resources": [
+    {
+      "name": "governos-ligacoes",
+      "path": "data/governos-ligacoes.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "bytes": 1036515,
+      "schema": {
+        "fields": [
+          {
+            "name": "",
+            "type": "integer",
+            "description": ""
+          },
+          {
+            "name": "Name",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "Party",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "RepParty",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "Begin",
+            "type": "integer",
+            "description": ""
+          },
+          {
+            "name": "End",
+            "type": "integer",
+            "description": ""
+          },
+          {
+            "name": "N_Years",
+            "type": "integer",
+            "description": ""
+          },
+          {
+            "name": "Organization",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "Position",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "Econ_Sector",
+            "type": "integer",
+            "description": ""
+          },
+          {
+            "name": "ThreeMore_Econ_Sector",
+            "type": "boolean",
+            "description": ""
+          },
+          {
+            "name": "Course_University",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "Place_University",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "Privatized_Company",
+            "type": "boolean",
+            "description": ""
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "MajorEconGroup",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "PPP",
+            "type": "boolean",
+            "description": ""
+          },
+          {
+            "name": "Angola",
+            "type": "boolean",
+            "description": ""
+          },
+          {
+            "name": "PSI20",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "Government",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "BusinessConnected",
+            "type": "boolean",
+            "description": ""
+          }
+        ]
+      }
+    }
+  ],
+  "description": ""
+}
